@@ -14,5 +14,5 @@
   </tbody>
 </table>]]></content>
   <tabTrigger>table</tabTrigger>
-  <scope>source.html</scope>
+  <scope>text.html</scope>
 </snippet>
