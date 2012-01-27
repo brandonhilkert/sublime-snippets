@@ -9,20 +9,29 @@ Installing
 
 ###With Git
 
-Navigate to your Sublime Text 2 user packages directory:
-
-  cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/
-
-And clone the repo to a new directory right then and there:
-
-  git clone git@github.com:brandonhilkert/sublime-snippets.git brandonhilkert-sublime-snippets
-
+```bash
+  cd "~/Library/Application Support/Sublime Text 2/Packages/"
+  git clone git://github.com/CraigWilliams/BeautifyRuby.git
+```
 
 ###Manually
 
 * Download the .zip file from the GitHub downloads modal
 * Unzip the files and rename the folder to "brandonhilkert-sublime-snippets"
 * Copy the folder to your Sublime Text 2 user packagers directory (`~/Library/Application Support/Sublime Text 2/Packages/User/)
+
+
+Usage
+-----
+
+### HTML snippets
+
+<table>
+  <tr><th>Tab trigger</th>
+  <th>Description</th></tr>
+  <tr><td>tom</td>
+  <td>Create TomDoc skeleton text.</td></tr>
+</table>
 
 
 Bugs & Additions
