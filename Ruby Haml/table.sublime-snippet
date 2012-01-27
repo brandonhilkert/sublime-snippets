@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[%table
+  %thead
+    %tr
+      %th $1
+      %th $2
+  %tbody
+    %tr
+      %td $3
+      %td $4]]></content>
+  <tabTrigger>table</tabTrigger>
+  <scope>source.haml</scope>
+</snippet>
