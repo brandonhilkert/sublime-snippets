@@ -29,8 +29,17 @@ Usage
 <table>
   <tr><th>Tab trigger</th>
   <th>Description</th></tr>
+  <tr><td>table</td>
+  <td>Creates HTML table structure skeleton.</td></tr>
+</table>
+
+### TomDoc snippets
+
+<table>
+  <tr><th>Tab trigger</th>
+  <th>Description</th></tr>
   <tr><td>tom</td>
-  <td>Create TomDoc skeleton text.</td></tr>
+  <td>Creates TomDoc skeleton text.</td></tr>
 </table>
 
 
