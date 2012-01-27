@@ -10,8 +10,8 @@ Installing
 ###With Git
 
 ```bash
-  cd "~/Library/Application Support/Sublime Text 2/Packages/"
-  git clone git://github.com/CraigWilliams/BeautifyRuby.git
+  cd "~/Library/Application Support/Sublime Text 2/Packages/User/"
+  git clone git://github.com/brandonhilkert/sublime-snippets.git brandonhilkert-sublime-snippets
 ```
 
 ###Manually
