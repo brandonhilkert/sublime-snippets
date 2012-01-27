@@ -15,7 +15,7 @@ Navigate to your Sublime Text 2 user packages directory:
 
 And clone the repo to a new directory right then and there:
 
-  git clone git@github.com:brandonhilkert/sublime-snippets.git
+  git clone git@github.com:brandonhilkert/sublime-snippets.git brandonhilkert-sublime-snippets
 
 
 ###Manually
