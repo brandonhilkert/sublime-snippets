@@ -9,5 +9,5 @@
       %td $3
       %td $4]]></content>
   <tabTrigger>table</tabTrigger>
-  <scope>source.haml</scope>
+  <scope>Ruby Haml</scope>
 </snippet>
